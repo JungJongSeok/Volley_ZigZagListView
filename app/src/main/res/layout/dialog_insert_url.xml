@@ -24,13 +24,13 @@
                 android:id="@+id/dialog_radio_url1"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
-                android:text="http://124.243.26.229" />
+                android:text="테스트" />
 
             <RadioButton
                 android:id="@+id/dialog_radio_url2"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
-                android:text="https://smartindoorapi.lotteomni.com" />
+                android:text="테스트2" />
 
             <RadioButton
                 android:id="@+id/dialog_radio_url3"
