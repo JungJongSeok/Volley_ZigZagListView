@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "456179006575",
+    "firebase_url": "https://ldcc-push.firebaseio.com",
+    "project_id": "ldcc-push",
+    "storage_bucket": "ldcc-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456179006575:android:a89be14101809efa",
+        "android_client_info": {
+          "package_name": "com.example.ldcc.volley_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456179006575-7mt0slnoanc0a7h1idtdnj5jnf3gfcmh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ldcc.volley_test",
+            "certificate_hash": "0BEE3793CC17F55D4826B4D070866FF6ED36DD29"
+          }
+        },
+        {
+          "client_id": "456179006575-rip6g019ulpmelemissmq45u2nom3gkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBogFjvsD35U1yulw5pI8mhWyuM_AKk2Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456179006575-rip6g019ulpmelemissmq45u2nom3gkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
